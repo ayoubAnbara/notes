@@ -1,4 +1,4 @@
-Notes from Javabains Bootcamp:
+Notes from Javabrains Bootcamp:
 
 https://javabrains.thinkific.com/courses/java-backend-bootcamp-private
 
